@@ -1,4 +1,4 @@
-#Currency Converter (using request lib. to get upated real time exchange rates from URL)
+#Currency Converter (using request lib. to get upated real time exchange rates from URL) 
 
 from msilib.schema import SelfReg
 import re
